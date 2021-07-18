@@ -504,7 +504,10 @@ img {
 .join-us,
 .subscribe {
   padding-top: 12px;
-  margin-right: 93px;
+}
+
+.subscribe {
+  margin-left: auto;
 }
 
 .join-us-title,
